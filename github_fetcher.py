@@ -25,5 +25,5 @@ with open('user-info2') as f:
         response = requests.get(f'{USER_END_POINT}/{username}/followers?per_page=100', headers = headers)
         r = response.json()
         for i in range(len(r)):
-            list_fower = f'{}'
+            list_flw = f'{}'
         return ''
