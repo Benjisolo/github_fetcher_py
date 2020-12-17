@@ -1,0 +1,390 @@
+
+1) capita:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+2) drohhyn:
+  'Followers' [5]: "1. fabianbuch; 2. fhopf; 3. Crustpunk; 4. angusshire; 5. Dmitriy-Vas; "
+  'Following' [7]: "1. fabianbuch; 2. Sephren; 3. joschi; 4. fhopf; 5. Crustpunk; 6. cr4igo; 7. k4r1; "
+
+3) sushilp:
+  'Followers' [1]: "1. msand; "
+  'Following' [0]: ""
+
+4) fdrescher:
+  'Followers' [2]: "1. osterman; 2. Bharathkumarraju; "
+  'Following' [0]: ""
+
+5) sushilc:
+  'Followers' [3]: "1. Sunil11235813; 2. KevinHock; 3. Dmitriy-Vas; "
+  'Following' [1]: "1. laszlopandy; "
+
+6) Till-Later:
+  'Followers' [2]: "1. dennisfr; 2. pscls; "
+  'Following' [1]: "1. pscls; "
+
+7) seanosulliv:
+  'Followers' [8]: "1. happymcplaksin; 2. jbarrett; 3. frlinux; 4. jfbucas; 5. nosmo; 6. sawasy; 7. woosley; 8. aghasyedbilal; "
+  'Following' [0]: ""
+
+8) LoTuGar:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+9) ChristopheBougere:
+  'Followers' [20]: "1. simonrenoult; 2. zeitungen; 3. nosuke; 4. Ngoguey42; 5. hadrien-toma; 6. fwang; 7. Jolg42; 8. watilde; 9. galbash; 10. hervenivon; 11. loic-sz; 12. piercus; 13. alex20465; 14. danisilva02; 15. baipi; 16. tcarecolin; 17. sebastienmascha; 18. johnowennixon; 19. massimoselvi; 20. vinod-tahelyani; "
+  'Following' [22]: "1. ranman; 2. davidgatti; 3. amark; 4. Stonelinks; 5. vbmithr; 6. hervenivon; 7. kitze; 8. watilde; 9. mikeparisstuff; 10. baipi; 11. hadrien-toma; 12. galbash; 13. Ngoguey42; 14. loic-sz; 15. charlesBochet; 16. ronyis; 17. ParisLearningGeeks; 18. elkaadka; 19. ranrib; 20. tcarecolin; 21. nshap; 22. justadudewhohacks; "
+
+10) Teath:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+11) adamfe:
+  'Followers' [3]: "1. gordonmzhu; 2. ajfern; 3. OmorFaruque-65; "
+  'Following' [8]: "1. danvk; 2. gordonmzhu; 3. wittrock; 4. ajfern; 5. svenkreiss; 6. craignm; 7. katzdave; 8. chrisng93; "
+
+12) laplace1984:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+13) dwvisser:
+  'Followers' [12]: "1. speedygonzalez; 2. ansell; 3. skhakimov; 4. petrolhead90ish; 5. rohithtp; 6. emily-e; 7. mgrubisic; 8. Rana6060; 9. Lelfy; 10. wuhongyi; 11. chahatagarwal; 12. hazelnutsgz; "
+  'Following' [16]: "1. tswicegood; 2. ansell; 3. petehunt; 4. david-a-wheeler; 5. speedygonzalez; 6. jeremylong; 7. theantichris; 8. jthaman; 9. ppedregal; 10. cathrynmarcuse; 11. wigging; 12. skhakimov; 13. msrader; 14. matthewravery; 15. amaiya; 16. nateej1; "
+
+14) ReptilezDK:
+  'Followers' [0]: ""
+  'Following' [1]: "1. kerneltoast; "
+
+15) guy-wb:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+16) hayasei:
+  'Followers' [1]: "1. cheeyeo; "
+  'Following' [1]: "1. glassesfactory; "
+
+17) alexolsen03:
+  'Followers' [2]: "1. jgetrost; 2. adolinski; "
+  'Following' [1]: "1. jgetrost; "
+
+18) ndnspongebob : DATA NOT FOUND FOR THIS USER!
+
+19) uglyjs:
+  'Followers' [8]: "1. helmus; 2. azawawi; 3. mathiasbynens; 4. hackvertor; 5. trietptm; 6. 0xadada; 7. mytxd; 8. cloudyan; "
+  'Following' [0]: ""
+
+20) aaronlidman:
+  'Followers' [144]: "1. klederson; 2. lxbarth; 3. alganet; 4. DanielJWood; 5. springmeyer; 6. krisbulman; 7. 51114u9; 8. drewda; 9. shawnbot; 10. iirvine; 11. jalbertbowden; 12. almccon; 13. jfirebaugh; 14. georgecoltart; 15. mpmckenna8; 16. colemanm; 17. perliedman; 18. mattdance; 19. cschwarz; 20. matryer; 21. Abbe98; 22. slojo404; 23. zhouxiaobo500; 24. mourner; 25. ingalls; 26. h4ck3rm1k3; 27. ebrelsford; 28. boombrusher; 29. pmgg; 30. bhousel; 31. stcywite; 32. Seandebasti; 33. alexkapps; 34. morganherlocker; 35. scisco; 36. geobrando; 37. jlmyers42; 38. dimasik9081; 39. richardinbeta; 40. technologiclee; 41. shvrm; 42. seumasmorrison; 43. qodeninja; 44. CombatCreative; 45. ebarrientosc; 46. ediyes; 47. kelvinabrokwa; 48. AmrEldib; 49. brylie; 50. tengr; 51. Federikko; 52. ruthmaben; 53. vijayk2019; 54. srividyacb; 55. stevevance; 56. rjh3; 57. mapsam; 58. shawnmgoulet; 59. henrystewart; 60. pratikyadav; 61. defvol; 62. tyrasd; 63. juljacques; 64. aarthykc; 65. w8r; 66. MoKob; 67. suriyaa; 68. jothirnadh; 69. jinalfoflia; 70. cusspvz; 71. captainbarbosa; 72. Rub21; 73. angusshire; 74. valeriodeluca; 75. nvkelso; 76. thadk; 77. riyasmohamedmr; 78. randpeck; 79. Fluen; 80. edtsky; 81. fijimunkii; 82. jonahadkins; 83. oeon; 84. yukangguo; 85. DenisCarriere; 86. jzhang2004; 87. andrewljohnson; 88. ryanbaumann; 89. chtnha; 90. volosincu; 91. lukasmartinelli; 92. briankingery87; 93. Zand-Bakhtiari; 94. simonemurzilli; 95. markeselavell; 96. timothyis; 97. bkowshik; 98. Abdulrahman69; 99. eliaswalyba; 100. shravan91; "
+  'Following' [83]: "1. mojodna; 2. iros; 3. tj; 4. mourner; 5. jasondavies; 6. tmcw; 7. onyxfish; 8. bigeasy; 9. jstn; 10. bhousel; 11. RandomEtc; 12. mrdoob; 13. pnc; 14. abyrd; 15. joto; 16. marijnh; 17. sindresorhus; 18. conradev; 19. kripken; 20. koenbok; 21. mbostock; 22. mikolalysenko; 23. olt; 24. madler; 25. iandees; 26. jdan; 27. ianstormtaylor; 28. patriciogonzalezvivo; 29. paulmach; 30. mhart; 31. geohacker; 32. ded; 33. mafintosh; 34. inconvergent; 35. ironwallaby; 36. booo; 37. fogleman; 38. turban; 39. rreusser; 40. vicapow; 41. defvol; 42. spite; 43. nvkelso; 44. samccone; 45. esimov; 46. eklimcz; 47. jamiebuilds; 48. maxwellito; 49. calvinmetcalf; 50. emilk; 51. Rub21; 52. almccon; 53. ingalls; 54. kitizz; 55. l-r; 56. mattdesl; 57. susielu; 58. gregtatum; 59. 1wheel; 60. kristw; 61. archietse; 62. mrmrs; 63. danpat; 64. mpmckenna8; 65. tyrasd; 66. ericfischer; 67. lord; 68. drcmda; 69. callmecavs; 70. seenaburns; 71. kmandov; 72. jxnblk; 73. Nakaner; 74. memononen; 75. justinfrankel; 76. alexkapps; 77. alyssaxuu; 78. rabramowitz; 79. dli; 80. nickcordella; 81. bodymovin; 82. benjamintd; 83. justinobeirne; "
+
+21) winsorkwong:
+  'Followers' [1]: "1. ilovetoast; "
+  'Following' [0]: ""
+
+22) pursueky:
+  'Followers' [0]: ""
+  'Following' [1]: "1. lg11; "
+
+23) etchings13:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+24) yportnoy:
+  'Followers' [4]: "1. kevinvess; 2. flemdizzle; 3. spencergilbert; 4. annasmilow; "
+  'Following' [0]: ""
+
+25) dmitry7887:
+  'Followers' [1]: "1. bendoerr; "
+  'Following' [2]: "1. delebedev; 2. EddyBorja; "
+
+26) Chekote:
+  'Followers' [18]: "1. joshmedeski; 2. angusshire; 3. naddy19; 4. basantgethub; 5. atroppe; 6. goodevilgenius; 7. blasher; 8. crschoen; 9. ebarreat; 10. allaeddine; 11. MitchRosendale; 12. ianchen23; 13. JPortillo00; 14. bilalmallick; 15. gogl92; 16. carlosal1015; 17. BKorenek; 18. rad8329; "
+  'Following' [1]: "1. darkwing; "
+
+27) battulga:
+  'Followers' [3]: "1. Zayabaatar; 2. erkhemee; 3. mi-projects; "
+  'Following' [4]: "1. enkhchuluun; 2. Zayabaatar; 3. limgeunhwi; 4. mi-projects; "
+
+28) ericdeford:
+  'Followers' [1]: "1. thinkt4nk; "
+  'Following' [0]: ""
+
+29) johnloch:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+30) mchidzik:
+  'Followers' [3]: "1. mpilquist; 2. Lisprez; 3. ky-bot; "
+  'Following' [2]: "1. mpilquist; 2. sobychacko; "
+
+31) jadeglaze:
+  'Followers' [7]: "1. daveray; 2. alicia; 3. halfaleague; 4. carolinerusso; 5. aphunter; 6. thenycrecruiter; 7. geekykaushal; "
+  'Following' [4]: "1. daveray; 2. tmbdev; 3. halfaleague; 4. ASoggyToaster; "
+
+32) multicharts:
+  'Followers' [18]: "1. osal; 2. w0rse; 3. vlkv; 4. heldner; 5. samitny; 6. imatsko; 7. zino974; 8. kevin0417; 9. aakash1108; 10. stochasticprocess; 11. IanMadlenya; 12. dazi005; 13. tcwang81; 14. keithtmccartney; 15. ileasile; 16. not-a-dev0; 17. Laymer; 18. DT021; "
+  'Following' [0]: ""
+
+33) dan55304:
+  'Followers' [2]: "1. shangshang; 2. zedoul; "
+  'Following' [1]: "1. MrHen; "
+
+34) GabrielLidenor:
+  'Followers' [25]: "1. GavinEduardo; 2. levymoreira; 3. vitalyp; 4. AndWil; 5. LazaroVidal; 6. angusshire; 7. VagrantStory; 8. yifeiwu; 9. Vermisse; 10. dalinhuang99; 11. mstraughan86; 12. vkandola; 13. marknemesis; 14. Bunlong; 15. jufecara; 16. sinourain; 17. degzcs; 18. AndresR173; 19. rodrigooler; 20. richardiyama; 21. luisdgutierrez05; 22. DanielCardonaRojas; 23. llanox; 24. castrojr913; 25. andreamiranda019; "
+  'Following' [26]: "1. ry; 2. akitaonrails; 3. tenderlove; 4. josevalim; 5. josephwilk; 6. bisqwit; 7. ljharb; 8. loiane; 9. ugisozols; 10. getify; 11. llanox; 12. danielauener; 13. dbousamra; 14. kobakei; 15. sinourain; 16. eileencodes; 17. notwaldorf; 18. vincentriemer; 19. rajasekarm; 20. luisdgutierrez05; 21. KillerCodeMonkey; 22. rwieruch; 23. arvindr21; 24. DanielCardonaRojas; 25. AndresR173; 26. yifeiwu; "
+
+35) bernardeli:
+  'Followers' [41]: "1. raulsouzalima; 2. renatonitta; 3. dlibanori; 4. dkonishi; 5. brunograsselli; 6. prodis; 7. regismesquita; 8. rafaelperrechil; 9. claudiobm; 10. wamaral; 11. ronildo; 12. dcmdeivid; 13. jenkins-micropower; 14. christospappas; 15. antonioparisi; 16. lucascaton; 17. narcisobenigno; 18. hightechheadhelper; 19. wevtimoteo; 20. alinecaton; 21. naimrajib07; 22. castastrophe; 23. cusspvz; 24. angusshire; 25. jossandro; 26. simk83; 27. leandroh; 28. AlexxNica; 29. paulstefanday; 30. KevinHock; 31. dalinhuang99; 32. aldhsu; 33. thauanz; 34. bradparker; 35. bdubaut; 36. Dmitriy-Vas; 37. tatey; 38. codingscode; 39. martinbjeldbak; 40. mkhairi; 41. svantepolk; "
+  'Following' [19]: "1. radar; 2. arthurgeek; 3. SamSaffron; 4. rafaelrosafu; 5. josevalim; 6. dcrec1; 7. ricardoalmeida; 8. renatonitta; 9. dlibanori; 10. SvenDowideit; 11. dkonishi; 12. leandromoreira; 13. brunograsselli; 14. mistersourcerer; 15. raulbcs; 16. rowanhogan; 17. cassidoo; 18. bradparker; 19. julielerman; "
+
+36) adamgf:
+  'Followers' [11]: "1. Abhishek9900; 2. janakg; 3. xionggithub; 4. pitterkampmann; 5. rasyidkaromi; 6. huerd; 7. mobileguru007; 8. anhtuank7c; 9. Al0nnso; 10. muzafferkabakci; 11. iuri; "
+  'Following' [12]: "1. casio; 2. janakg; 3. huerd; 4. petermoresi; 5. xionggithub; 6. lighthx; 7. jslok; 8. Abhishek9900; 9. mobileguru007; 10. rasyidkaromi; 11. johnbcollier; 12. pitterkampmann; "
+
+37) michaeltse:
+  'Followers' [7]: "1. pazalvin; 2. akio46; 3. angusshire; 4. Mati365; 5. Shipow; 6. evinw; 7. mattheworiordan; "
+  'Following' [26]: "1. sujal; 2. stephenlb; 3. newrooky; 4. stuartmemo; 5. rickmak; 6. galen; 7. rstacruz; 8. creationix; 9. lacker; 10. kasparsd; 11. chpapa; 12. bchanx; 13. daneden; 14. yyx990803; 15. imbrianj; 16. andwang; 17. bobey; 18. coocood; 19. hwz; 20. PakL; 21. RadLikeWhoa; 22. matthoiland; 23. mrmrs; 24. sedouard; 25. ben181231; 26. EthanRBrown; "
+
+38) djcrabhat:
+  'Followers' [13]: "1. justino; 2. jjmartin; 3. brandb909; 4. theherk; 5. MichalPaszkiewicz; 6. snobear; 7. nanderson; 8. defond0; 9. iamjohnnym; 10. diegogoding; 11. codytubbs; 12. akshay3030; 13. seubert; "
+  'Following' [21]: "1. admgre; 2. nanderson; 3. nathanmarz; 4. justino; 5. douglascrockford; 6. Aaronontheweb; 7. jjmartin; 8. mulcare; 9. JohnBloom; 10. rvandegrift; 11. seubert; 12. NickPiscitelli; 13. pmotschmann; 14. vkuusk; 15. defond0; 16. brandb909; 17. theherk; 18. diegogoding; 19. yousefcodes; 20. davemalone; 21. codytubbs; "
+
+39) WHBitbucket : DATA NOT FOUND FOR THIS USER!
+
+40) janjaeger:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+41) capira:
+  'Followers' [1]: "1. alidhaey; "
+  'Following' [0]: ""
+
+42) kootio:
+  'Followers' [1]: "1. AwaisBajwa; "
+  'Following' [0]: ""
+
+43) xonatius:
+  'Followers' [11]: "1. librarian; 2. ilblackdragon; 3. frol; 4. pkolt; 5. azilli; 6. fatrat1117; 7. songhu; 8. proneetv; 9. branchang; 10. gautamworah96; 11. IJustDev; "
+  'Following' [5]: "1. proton; 2. ilblackdragon; 3. frol; 4. camshaft; 5. azilli; "
+
+44) anemoff:
+  'Followers' [3]: "1. jonasbru; 2. bgatellier; 3. ilayshp; "
+  'Following' [2]: "1. jonasbru; 2. bgatellier; "
+
+45) kuippa:
+  'Followers' [5]: "1. naoranger; 2. reoring; 3. tatsuro-ueda; 4. KevinHock; 5. Dmitriy-Vas; "
+  'Following' [3]: "1. aike; 2. MizukiSonoko; 3. takemiyamakoto; "
+
+46) BudweisersBuddy : DATA NOT FOUND FOR THIS USER!
+
+47) alicechen:
+  'Followers' [0]: ""
+  'Following' [1]: "1. murphylan; "
+
+48) davidpriest:
+  'Followers' [3]: "1. jdkoftinoff; 2. skopp; 3. innovimax; "
+  'Following' [2]: "1. ndw; 2. jdkoftinoff; "
+
+49) jord98716:
+  'Followers' [4]: "1. arudge; 2. h4ck3rm1k3; 3. KevinHock; 4. Dmitriy-Vas; "
+  'Following' [0]: ""
+
+50) robertogds:
+  'Followers' [9]: "1. luisCalvo; 2. pablopr; 3. masev; 4. STRd6; 5. geofffalk; 6. jbaginski; 7. JonathanMonga; 8. os340000; 9. kelvin-dev; "
+  'Following' [6]: "1. jashkenas; 2. JakeWharton; 3. MichaelEvans; 4. orthlieb; 5. svtk; 6. geofffalk; "
+
+51) smatocto:
+  'Followers' [1]: "1. evincedevelop; "
+  'Following' [0]: ""
+
+52) navotera:
+  'Followers' [4]: "1. rhendy7; 2. alihastalavista; 3. msteckyefantis; 4. TurtleWolfe; "
+  'Following' [4]: "1. donnfelker; 2. leonstafford; 3. hushnymous; 4. amitshekhariitbhu; "
+
+53) mrgml:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+54) Fylgjas:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+55) Sync-my-L2P : DATA NOT FOUND FOR THIS USER!
+
+56) aparres:
+  'Followers' [19]: "1. erik1092; 2. FhDeniz; 3. luis7cadena; 4. Vladimir-El-Temible; 5. SaritaMontesdeOca; 6. oarroyo; 7. AlfredoFausto; 8. Chuletaman2; 9. ozkar94; 10. nomajneb; 11. ascervantes; 12. gtzgileta; 13. luisfergromo; 14. toxtli; 15. Nazul; 16. KevinHock; 17. Angel-Avila; 18. Dmitriy-Vas; 19. ian27diaz; "
+  'Following' [0]: ""
+
+57) srimudigere:
+  'Followers' [0]: ""
+  'Following' [5]: "1. jeffharrell; 2. ppalavilli; 3. tomwhipple; 4. SprocketNYC; 5. jdwheels; "
+
+58) staszekpk:
+  'Followers' [1]: "1. angusshire; "
+  'Following' [1]: "1. feross; "
+
+59) andysinclair:
+  'Followers' [2]: "1. sacrosankt; 2. katerinaanton; "
+  'Following' [0]: ""
+
+60) zgrossbart:
+  'Followers' [96]: "1. alinemachado; 2. nandofalcao; 3. Sannis; 4. Ramoonus; 5. shamansir; 6. hoshposh; 7. supaket; 8. sequoiar; 9. jkudish; 10. harrydeluxe; 11. mauricionobrega; 12. DerTak; 13. ghaskins; 14. fsenart; 15. Timopheym; 16. yeremi; 17. AramZS; 18. spiffyui; 19. bsiegal; 20. BrianMehrman; 21. artedu; 22. jerryao; 23. sonic27; 24. mirzap; 25. galeo; 26. javajack; 27. krsreenatha; 28. svivekvarma; 29. skylamer; 30. hattoriheiji; 31. liqy; 32. waskosky; 33. dackdel; 34. nitesh-; 35. PJBelcher; 36. noelwclarke; 37. georgechetreanu; 38. csjaba; 39. JT5D; 40. stinie; 41. alphastory; 42. flunardelli; 43. brianfernalld; 44. shixudongleo; 45. xiaoyanit; 46. kariem-ali; 47. indigo423; 48. fordream; 49. illucent; 50. rfmcneil; 51. awesome; 52. krishaamer; 53. jjcordova; 54. kunlqt; 55. ovicin; 56. lssmn; 57. DJHartley; 58. MohamedDiaa; 59. gkhays; 60. Adapts; 61. sarru; 62. mcanthony; 63. seem-sky; 64. ycaihua; 65. toxtli; 66. fiatluox; 67. magnetogit; 68. bcamel; 69. janos97; 70. yashparmar71; 71. anuragkalra; 72. vdt; 73. klasen; 74. jcombs-pointblue; 75. Wytamma; 76. noxify; 77. idsecurity; 78. burakavcioglu; 79. twinkalmalaviya; 80. AreYouQQ; 81. kvasukib; 82. kiranbhagannavar; 83. fpatterson55; 84. marcosvpj; 85. amycuicui; 86. yiwenh; 87. weaming; 88. San4Code; 89. swdreams; 90. smart-u; 91. sjuxax; 92. jeff-fe; 93. vsrohit; 94. JonReppDirectOneDesign; 95. ohoroyoi; 96. chuesgen; "
+  'Following' [8]: "1. perifer; 2. hoshposh; 3. jkudish; 4. ghaskins; 5. spiffyui; 6. bsiegal; 7. jbultmeyer; 8. kristenriley; "
+
+61) pratansyah:
+  'Followers' [2]: "1. rizkyriadhy; 2. daengdoang; "
+  'Following' [1]: "1. rizkyriadhy; "
+
+62) pawan52tiwari:
+  'Followers' [2]: "1. digideskio; 2. DavidMilberg; "
+  'Following' [0]: ""
+
+63) amaes:
+  'Followers' [2]: "1. conditionsofexistence; 2. 3000farad; "
+  'Following' [1]: "1. anselm; "
+
+64) rawurl:
+  'Followers' [0]: ""
+  'Following' [1]: "1. endymuhardin; "
+
+65) npezolano:
+  'Followers' [21]: "1. spsanderson; 2. cybojanek; 3. jimgoo; 4. liyicky; 5. b3yang; 6. dotCipher; 7. Kainne; 8. wgajate; 9. llazzaro; 10. vapte; 11. alphaBenj; 12. bzmlin; 13. maeschreck; 14. femtotrader; 15. Bison24; 16. magic-man; 17. nelsonic; 18. devarty; 19. SiddRamesh; 20. lorenzozanotto; 21. starovp; "
+  'Following' [24]: "1. tibbe; 2. rampion; 3. zixan; 4. acmorrow; 5. ekmett; 6. wallgate; 7. damienchallet; 8. basvandijk; 9. dgrnbrg; 10. mikeizbicki; 11. vfilimonov; 12. paulrzcz; 13. BMeridian; 14. magic-man; 15. jimgoo; 16. dotCipher; 17. femtotrader; 18. devinlee1995; 19. OwenRennich; 20. alphaBenj; 21. DankBudd; 22. QuaternionRisk; 23. 252e4e; 24. starovp; "
+
+66) yoonunit:
+  'Followers' [0]: ""
+  'Following' [5]: "1. joemsak; 2. neotericdesign; 3. nicinabox; 4. macowie; 5. brynosaur; "
+
+67) brainlid:
+  'Followers' [18]: "1. jenseng; 2. apnadmin; 3. angusshire; 4. matelau; 5. jwcastillo; 6. derekclair; 7. lastmeta; 8. jrichocean; 9. denvaar; 10. mushroomlb; 11. adolfont; 12. dnlserrano; 13. NickHath; 14. onixus74; 15. emeidell; 16. Himenon; 17. bangarangler; 18. Nezteb; "
+  'Following' [2]: "1. mitchellh; 2. dnlserrano; "
+
+68) tuncer:
+  'Followers' [68]: "1. yrashk; 2. puzza007; 3. tim; 4. jj1bdx; 5. hyperthunk; 6. abecciu; 7. pichi; 8. mvw; 9. nivertech; 10. mremond; 11. elbrujohalcon; 12. mdaguete; 13. mryufeng; 14. ostinelli; 15. usercard; 16. msantos; 17. burbas; 18. fdmanana; 19. spawnthink; 20. KlausTrainer; 21. alexband; 22. babsonmatt; 23. guodaqing; 24. ejkim; 25. cpyxyls; 26. cqfd; 27. dp0304; 28. arcusfelis; 29. huseyinyilmaz; 30. dstar4138; 31. chinnurtb; 32. juleshaverstead; 33. polaris; 34. joom; 35. linearregression; 36. shlokspeare; 37. carlosedp; 38. lrascao; 39. saa; 40. fenollp; 41. unbalancedparentheses; 42. ahmetabdi; 43. erguven; 44. dvliman; 45. 23Skidoo; 46. angusshire; 47. thomasbhatia; 48. yurrriq; 49. hachreak; 50. posilva; 51. geraldo-netto; 52. JDongian; 53. KrzysiekJ; 54. abobandar86; 55. senturk; 56. Chatatata; 57. zhongwencool; 58. a3n; 59. tg-x; 60. Lisprez; 61. ptrf; 62. Dmitriy-Vas; 63. barisizm; 64. quewean; 65. kuenishi; 66. Passw; 67. adamnemecek; 68. 221V; "
+  'Following' [0]: ""
+
+69) blaztriglav:
+  'Followers' [2]: "1. dannyroa; 2. brentlarue; "
+  'Following' [0]: ""
+
+70) mrgnu:
+  'Followers' [1]: "1. fruxo; "
+  'Following' [2]: "1. jensl; 2. fruxo; "
+
+71) rononovski:
+  'Followers' [0]: ""
+  'Following' [1]: "1. richhickey; "
+
+72) hsaid:
+  'Followers' [1]: "1. fjoanis; "
+  'Following' [0]: ""
+
+73) amagi:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+74) mrgnt:
+  'Followers' [1]: "1. epvn; "
+  'Following' [2]: "1. openp2pdesign; 2. epvn; "
+
+75) db-dzine : DATA NOT FOUND FOR THIS USER!
+
+76) treehouse-su:
+  'Followers' [8]: "1. rjsteinert; 2. jywarren; 3. jpierce7; 4. icarito; 5. jkesh93; 6. dogi; 7. SadiaRasheed; 8. empeje; "
+  'Following' [3]: "1. jywarren; 2. rjsteinert; 3. dogi; "
+
+77) cansoylu:
+  'Followers' [0]: ""
+  'Following' [1]: "1. icanb; "
+
+78) beenalee:
+  'Followers' [2]: "1. angusshire; 2. evinw; "
+  'Following' [2]: "1. kriswallsmith; 2. fabpot; "
+
+79) adamil:
+  'Followers' [1]: "1. tomandersson; "
+  'Following' [1]: "1. tomandersson; "
+
+80) stflory:
+  'Followers' [9]: "1. sbeaus; 2. anhang; 3. adamnash75; 4. darianedwards; 5. barshow; 6. jdubie; 7. Eidah; 8. KevinHock; 9. Dmitriy-Vas; "
+  'Following' [9]: "1. perezd; 2. jbettcher; 3. sbeaus; 4. uforic; 5. adamnash75; 6. darianedwards; 7. acue; 8. barshow; 9. jdubie; "
+
+81) Madde4797:
+  'Followers' [2]: "1. Sauriel; 2. colinbs; "
+  'Following' [0]: ""
+
+82) rillomas:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+83) ssshah0624:
+  'Followers' [1]: "1. nkav; "
+  'Following' [0]: ""
+
+84) davidfoley:
+  'Followers' [10]: "1. cliffhall; 2. austindimmer; 3. smallant; 4. fordream; 5. barbarosso; 6. roman-murashov; 7. KevinHock; 8. qipa; 9. Dmitriy-Vas; 10. Alastair-JavaRec; "
+  'Following' [1]: "1. zaach; "
+
+85) jipilush:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+86) Vizzy:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+87) wheelboxer:
+  'Followers' [4]: "1. abaecker; 2. timproDev; 3. markharle; 4. joyjamir; "
+  'Following' [0]: ""
+
+88) nickelily:
+  'Followers' [0]: ""
+  'Following' [1]: "1. ccgus; "
+
+89) realDugo:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+90) johnglover:
+  'Followers' [91]: "1. solon; 2. mikeriffraff; 3. eddyc; 4. sine-wave; 5. crucialfelix; 6. cyrta; 7. kavanista; 8. mgeier; 9. nburkley; 10. antiface; 11. pje; 12. peterjanovsky; 13. grandbora; 14. gavinmbell; 15. maxogden; 16. campustimes; 17. Dannyzen; 18. Sciss; 19. mxochicale; 20. soumith; 21. wutongtong; 22. samim23; 23. barryridge; 24. npow; 25. eriche2016; 26. hohoCode; 27. aironashish; 28. kritzikratzi; 29. ih4cku; 30. chrishokamp; 31. robinsloan; 32. gijzelaerr; 33. cabadsanchez; 34. nberah; 35. iCEAGE; 36. ionelhosu; 37. jreyeshdez; 38. bagustris; 39. fly51fly; 40. alma4rebi; 41. shockmonger; 42. slegroux; 43. mxsage; 44. wmejohnson; 45. mihaitodor; 46. ixtal23; 47. shatu; 48. bshillingford; 49. silky; 50. washt; 51. rizwanishaq; 52. Lunkvoul; 53. kradriany; 54. rdoume; 55. mdibaiee; 56. cinterloper; 57. tiberiuichim; 58. letslego; 59. aquraini; 60. orchidas; 61. HamedMP; 62. pchao6; 63. jerrygaoLondon; 64. arpaterson; 65. yxlijun; 66. trevorlazarus; 67. wtkns; 68. wassimseif; 69. batermj; 70. timpauli; 71. alessandrostone; 72. doumenat; 73. lxxxxfdh; 74. genedelisa; 75. CodingBoO; 76. qa1; 77. m-onz; 78. boxreb14; 79. alexoeducative; 80. shamio; 81. VincentCusson; 82. Houazan; 83. steffanjensen; 84. ZakMiller; 85. lpossberg; 86. CaduceusInc; 87. caiweicaiwei; 88. xichaoqiang; 89. lixiao2; 90. Lisprez; 91. irodrimoAI; "
+  'Following' [9]: "1. cournape; 2. solon; 3. nburkley; 4. recyclism; 5. eddyc; 6. soumith; 7. chrishokamp; 8. samim23; 9. sine-wave; "
+
+91) kdunsmore : DATA NOT FOUND FOR THIS USER!
+
+92) adamix:
+  'Followers' [9]: "1. x86; 2. mabako; 3. Disinterpreter; 4. UAVXP; 5. huatson; 6. Kenix157; 7. angusshire; 8. KevinHock; 9. Dmitriy-Vas; "
+  'Following' [1]: "1. maxcom; "
+
+93) lemeur:
+  'Followers' [1]: "1. LaurentCabaret; "
+  'Following' [1]: "1. LaurentCabaret; "
+
+94) TatriX:
+  'Followers' [63]: "1. mr555ru; 2. aleaverin; 3. CantSleepAgain; 4. lordliquid; 5. mabragor; 6. hacenator; 7. achernakov; 8. Aikava; 9. RomanShevczov; 10. fabianPas; 11. seyfer; 12. danyfedorov; 13. iancormac84; 14. caffellatte; 15. niweiqi; 16. honix; 17. chunsj; 18. o78; 19. beyhosni; 20. shawwn; 21. alexander-irbis; 22. SJ23y; 23. tazjin; 24. hashier; 25. zarkone; 26. mbblp; 27. andiogenes; 28. alishir; 29. xieyuheng; 30. danbruder; 31. xuliker; 32. efeng1st; 33. luchoman08; 34. sergeysova; 35. Lisprez; 36. FMajesty; 37. ebpa; 38. SpirosMakris; 39. lockie; 40. NeoChow; 41. ilovejs; 42. majordutch; 43. ezemtsov; 44. Lelfy; 45. famiclone; 46. ram0973; 47. yuu-yuki; 48. dz-s; 49. notoriginalnik; 50. marcusramberg; 51. KlausDevWalker; 52. JamyGolden; 53. bibi-chat; 54. MatildeSlo; 55. lunaryone; 56. Galauk; 57. arn-the-long-beard; 58. arkhan; 59. ankitsharma07; 60. ruandre; 61. Sankalp679; 62. s9v; 63. danichts; "
+  'Following' [12]: "1. jwiegley; 2. tarsius; 3. NicolasPetton; 4. spf13; 5. dgutov; 6. byulparan; 7. tazjin; 8. Fuco1; 9. abo-abo; 10. sharkdp; 11. levelgd; 12. asconix; "
+
+95) van800:
+  'Followers' [13]: "1. kvakes; 2. youlkax; 3. takitaeva; 4. orybak; 5. borismod; 6. AndreyAkinshin; 7. MonoAutomation; 8. dianahshirin; 9. tshimomura; 10. getupandearn; 11. BrunoSilvaFreire; 12. krapans; 13. ww898; "
+  'Following' [5]: "1. kvakes; 2. UweKeim; 3. sailro; 4. youlkax; 5. takitaeva; "
+
+96) ptheo:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+97) 0708jun:
+  'Followers' [0]: ""
+  'Following' [0]: ""
+
+98) drewvanstone:
+  'Followers' [5]: "1. cusspvz; 2. gabrielpconceicao; 3. dmaust; 4. dalinhuang99; 5. miketmoore; "
+  'Following' [12]: "1. jtimberman; 2. ben; 3. reset; 4. brandur; 5. matryer; 6. benbjohnson; 7. sreis; 8. ismell; 9. andygrove; 10. mrnugget; 11. ddevault; 12. zacps; "
+
+99) ptheg:
+  'Followers' [3]: "1. nogo; 2. pschirch; 3. angusshire; "
+  'Following' [4]: "1. fabpot; 2. nogo; 3. pschirch; 4. marein; "
+
+100) mjeppesen:
+  'Followers' [1]: "1. lanicon; "
+  'Following' [0]: ""
+
+101)  : DATA NOT FOUND FOR THIS USER!
